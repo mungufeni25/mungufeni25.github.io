@@ -15,7 +15,7 @@ I am a student learning how to create web pages using GitHub.
 
 ## My Projects
 
-- [Project 1](https://github.com/<mungufeni25>/<project1-repo>;)
+- [Project 1](https://github.com/[<mungufeni25>](https://mungufeni25.github.io/)/<project1-repo>;)
 
  
 
